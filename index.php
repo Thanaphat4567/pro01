@@ -13,6 +13,9 @@
         <input type="radio" name="status" value="unmarried">unmarried
         <input type="radio" name="status" value="married">married<br>
         <input type="submit" value="Submit"><br>
+
     </form>
+
 </body>
+
 </html>
